@@ -52,7 +52,7 @@
          If needed provide me some short examples also
          Response should be as in same language 
          
-      10.  LIMITATIONS:
+   10.  LIMITATIONS:
           - They might miss the information in the middle ("haluezination")
           - Knowledge cutoff 
 
